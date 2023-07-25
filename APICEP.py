@@ -28,6 +28,16 @@ else:
     print('CEP inválido. Revise o CEP.')
 
 
-# Busca de CEP a partir de um endereço
+
+
+
+# printando mais organizado
+
+import pprint
+
+
+pprint.pprint(dic_requisicao)
+
+
 
 
